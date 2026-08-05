@@ -39,3 +39,12 @@
 .login > button:hover {
   cursor: pointer;
 }
+
+.app-logo {
+  font-size: 42px;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  text-align: center;
+  color: #262626;
+  margin: 20px 0;
+}
